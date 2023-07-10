@@ -1,0 +1,15 @@
+Customer ID: C1
+Customer name: kumar
+Units consumed: 185
+Bill amount: 1378.25
+-----------------------
+Customer ID: C2
+Customer name: john
+Units consumed: 220
+Bill amount: 1639
+-----------------------
+Customer ID: C3
+Customer name: ramesh
+Units consumed: 116
+Bill amount: 864.2
+-----------------------
